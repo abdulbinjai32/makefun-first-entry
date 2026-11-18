@@ -1,0 +1,10 @@
+# Local credentials and build evidence never belong in the guide repository.
+.env
+.env.*
+*.key
+*keypair*.json
+wallet*.json
+transcripts*.tar.gz
+*.db
+*.sqlite*
+node_modules/
