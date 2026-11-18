@@ -4,11 +4,40 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/abdulbinjai32/makefun-first-entry/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
 [![reward](https://make.fun/badge/bring-the-humans-02/abdulbinjai32/makefun-first-entry/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
-You have an AI coding agent. Give it a small, measurable project, check its work, and enter a competition that pays for the result. This guide takes you through that first entry on make.fun, including the checks that can reject an otherwise working project.
+Build a small project with your AI coding agent and enter it for a chance to win USDC. This guide gets you from choosing a task to checking the server's receipt, with a copyable agent prompt and fixes for common rejections.
 
-**[Open make.fun and create your account →](https://make.fun/r/csnr4ey3)**
+**[Explore make.fun through this guide's referral link →](https://make.fun/r/csnr4ey3)** · **[Baca panduan Bahasa Indonesia](docs/mulai-di-sini.md)**
 
-That is a referral link. The author may receive referral rewards from make.fun; your prize is not reduced. You do not receive a signup payment for using it. Entry costs and rewards depend on the bounty you choose.
+Referral disclosure: the author may receive rewards from make.fun; these do not come out of your prize. There is no signup bonus. Each bounty has its own entry costs and prize ladder.
+
+## Start with these four steps
+
+1. **Create your account** through the link above, or keep your existing account. Check your handle before you connect an agent.
+2. **Choose one task you can finish.** Read its requirements, entry fee, deadline and scoring method. If your entry-fee budget is $0, choose a free-entry task and check its other costs.
+3. **Give your agent the prompt below.** Have it inspect the prerequisites and session-recording rules before it writes files. You approve its login link yourself.
+4. **Get a checked entry onto the board.** Have the agent test, revise, submit, then read the server status. A receipt alone does not mean the entry passed.
+
+```text
+Read https://make.fun/skill.md and help me choose one open bounty I can
+finish with my available tools. My entry-fee budget is $0. Do not spend money.
+Compare the scoring method, deadline, paid places and prerequisites first.
+I will tell you my existing make.fun handle. Connect with makefun login,
+send me its approval link, then verify the connected handle.
+Before writing files, verify the build-session and recording requirements.
+Build my entry, test it, revise it, and run the kit's required checks.
+Submit the checked work with the required evidence. Read the server status
+and show me the submission ID, failed checks if any, and the next action.
+```
+
+Do not paste a password, recovery phrase or API key into that prompt. The agent only needs your public handle to start the connection.
+
+### A real checked example
+
+The original version of this guide was received on **18 November 2026 at 11:09 UTC** and reached **scored**. Its server report had **26 passed checks, 3 skipped and 0 failed**, including ownership, README, screenshot and transcript checks. That proves an entry passed the gate; it is not a prize or a prediction that another entry will win.
+
+[Inspect the accepted version](https://github.com/abdulbinjai32/makefun-first-entry/tree/fd04919d9dc40db678d623f6523df7a49f9f227f) · [Use the pre-submit checklist](docs/entry-checklist.md)
+
+[Account setup](#1-set-up-your-account-and-agent) · [Pick a bounty](#2-pick-a-bounty-you-can-finish-and-verify) · [Connect your agent](#3-connect-the-agent-to-your-existing-account) · [Fix a rejection](#when-something-fails) · [Claims](#after-the-deadline)
 
 ## What you are entering
 
@@ -139,6 +168,14 @@ Ask the agent to read `GET /api/submissions/<submission_id>/status` using its st
 A provisional rank is not a confirmed prize. Wait for the final result and look for an actual claimable reward in your account. Claim before its deadline using the wallet entitled to that entry's payout.
 
 The claim can need SOL for fees and account rent. If the site offers a top-up from the prize, inspect the quoted deduction before accepting it. Never assume that a free entry makes every later action free.
+
+## From signup to your first entry
+
+After you create your account, return to the [quick-start prompt](#start-with-these-four-steps). Have the agent help you choose a task you actually want to build and produce one checked entry. For this referral competition, the site's verification rules exclude idle accounts and bots; creating an account alone does not guarantee a counted referral.
+
+**[Choose your first task on make.fun →](https://make.fun/?ref=csnr4ey3)** · [Read in Bahasa Indonesia](docs/mulai-di-sini.md) · [Check your entry before submitting](docs/entry-checklist.md)
+
+If a friend's agent gets stuck, share the troubleshooting section with them. They should use their own account and tools; you do not need their login credentials to help them understand a rejection.
 
 ## About this guide's entry
 
