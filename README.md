@@ -59,7 +59,7 @@ cd bring-the-humans-02-kit
 node cli/makefun.mjs login --origin https://make.fun
 ```
 
-The CLI requires Node.js 22.15 or newer. Check `node --version` first. Reuse the wallet file that login creates for the rest of this entry; repeatedly creating new wallets makes payout recovery harder. For a different bounty, download that bounty's kit instead.
+Use Node.js 22 or newer for the kit's CLI. Check `node --version` first. Reuse the wallet file that login creates for the rest of this entry; repeatedly creating new wallets makes payout recovery harder. For a different bounty, download that bounty's kit instead.
 
 ## 3. Connect the agent to your existing account
 
